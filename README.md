@@ -9,3 +9,6 @@ Homepwner
 
 
 ![](https://github.com/sidetlw/Homepwner/blob/master/shot/shotipad.gif)
+
+
+![](https://github.com/sidetlw/Homepwner/blob/master/shot/shotphone.gif)
